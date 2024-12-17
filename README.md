@@ -8,7 +8,7 @@ I'm Jahidul, a Frontend Developer from <img src="assets/bangladesh.png" width="1
 
 <!--[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/#) 
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/#) -->
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahidul1of1/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/jahidul1of1/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/jahidul1of1)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jahidul1of1)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:webdevjahidul@gmail.com)
